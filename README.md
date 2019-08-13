@@ -1,5 +1,5 @@
-# web-development-portfolio
-A collection of my most memorable web development projects
+# web-development-favorites
+My favorite web development projects that I've worked on
 
 ## Static home page inspired by the New Yorker magazine
 *[View Here](https://dartmouth-cs52-19s.github.io/lab1-landingpage-danah-han/?fbclid=IwAR3a-qiI2FUHUb4vgM-_PoFhBt8ezKYUDvz71kP1vMVD8gfAT-XAcIw9sII)*
